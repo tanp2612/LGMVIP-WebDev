@@ -91,11 +91,6 @@ li{
     color: white;
 }
 
-.owl_carousel{
-    height: 10rem !important;
-    max-width: 90rem !important;
-    margin: auto;
-}
 .carousel-caption button, .second_row button{
     padding: 13px 24px;
     transition: 1s;
